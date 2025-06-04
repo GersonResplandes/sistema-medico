@@ -123,7 +123,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [@seu-usuario](https://github.com/GersonResplandes)
+Seu Nome - [Gérson Resplandes de Sá Sousa](https://github.com/GersonResplandes)
 
 ## 🤝 Contribuindo
 
