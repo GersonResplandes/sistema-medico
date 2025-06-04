@@ -43,7 +43,6 @@ Sistema de gestão médica desenvolvido como projeto de estudo, implementando co
 
   - PHP 7.4+
   - MySQL 5.7+
-  - PDO para conexão com banco de dados
 
 - **Frontend**
   - Bootstrap 5.3
@@ -56,14 +55,14 @@ Sistema de gestão médica desenvolvido como projeto de estudo, implementando co
 
 ```
 sistema-medico/
-├── conexao.php          # Configuração do banco de dados
-├── index.php           # Página inicial
+├── conexao.php           # Configuração do banco de dados
+├── index.php             # Página inicial
 ├── cadastro_paciente.php # Formulário de pacientes
-├── cadastro_medico.php  # Formulário de médicos
-├── consulta_medica.php  # Registro de consultas
-├── header.php          # Cabeçalho comum
-├── footer.php          # Rodapé comum
-└── database.sql        # Estrutura do banco de dados
+├── cadastro_medico.php   # Formulário de médicos
+├── consulta_medica.php   # Registro de consultas
+├── header.php            # Cabeçalho comum
+├── footer.php            # Rodapé comum
+└── database.sql          # Estrutura do banco de dados
 ```
 
 ## ⚙️ Requisitos do Sistema
@@ -78,7 +77,7 @@ sistema-medico/
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-medico.git
+git clone https://github.com/GersonResplandes/sistema-medico.git
 ```
 
 2. Importe o banco de dados
@@ -122,7 +121,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [@seu-usuario](https://github.com/seu-usuario)
+Seu Nome - [@seu-usuario](https://github.com/GersonResplandes)
 
 ## 🤝 Contribuindo
 
@@ -134,7 +133,7 @@ Seu Nome - [@seu-usuario](https://github.com/seu-usuario)
 
 ## 📞 Suporte
 
-Para suporte, envie um email para seu-email@exemplo.com ou abra uma issue no projeto.
+Para suporte, envie um email para sagerson@acad.ifma.edsu.br ou abra uma issue no projeto.
 
 ---
 
