@@ -103,9 +103,11 @@ http://localhost/sistema-medico
 ```
 
 ## 🎨 Interface
+![Captura de tela 2025-06-04 151112](https://github.com/user-attachments/assets/a1cc485a-d71d-485d-8aa5-8b38a74da255)
 
 <div align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
+  <img src="![Captura de tela 2025-06-04 151112](https://github.com/user-attachments/assets/a1cc485a-d71d-485d-8aa5-8b38a74da255)
+" alt="Dashboard" width="800"/>
 </div>
 
 ## 🔒 Segurança
